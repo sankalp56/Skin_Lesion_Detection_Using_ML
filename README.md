@@ -1,1 +1,4 @@
-# Skin_Lesion_Detection_Using_ML
+"# Skin-Lesion-Prediction" 
+
+
+project by - Paras Wane, Sankalp Kamble, Yash Nawale
